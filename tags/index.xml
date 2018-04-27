@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mon blog pour noter tout</title>
-    <link>http://monblog.monproprecloud.com/tags/</link>
+    <link>https://spokorsk.github.io/blog.github.io/tags/</link>
     <description>Recent content in Tags on Mon blog pour noter tout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
@@ -11,42 +11,42 @@
     <copyright>Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
     <lastBuildDate>Tue, 18 Aug 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://monblog.monproprecloud.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://spokorsk.github.io/blog.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bio</title>
-      <link>http://monblog.monproprecloud.com/tags/bio/</link>
+      <link>https://spokorsk.github.io/blog.github.io/tags/bio/</link>
       <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
       <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
-      <guid>http://monblog.monproprecloud.com/tags/bio/</guid>
+      <guid>https://spokorsk.github.io/blog.github.io/tags/bio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meta</title>
-      <link>http://monblog.monproprecloud.com/tags/meta/</link>
+      <link>https://spokorsk.github.io/blog.github.io/tags/meta/</link>
       <pubDate>Mon, 23 Apr 2018 19:39:52 +0200</pubDate>
       <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
-      <guid>http://monblog.monproprecloud.com/tags/meta/</guid>
+      <guid>https://spokorsk.github.io/blog.github.io/tags/meta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project</title>
-      <link>http://monblog.monproprecloud.com/tags/project/</link>
+      <link>https://spokorsk.github.io/blog.github.io/tags/project/</link>
       <pubDate>Mon, 05 Oct 2015 02:27:08 +0000</pubDate>
       <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
-      <guid>http://monblog.monproprecloud.com/tags/project/</guid>
+      <guid>https://spokorsk.github.io/blog.github.io/tags/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>http://monblog.monproprecloud.com/tags/test/</link>
+      <link>https://spokorsk.github.io/blog.github.io/tags/test/</link>
       <pubDate>Mon, 23 Apr 2018 19:39:52 +0200</pubDate>
       <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
-      <guid>http://monblog.monproprecloud.com/tags/test/</guid>
+      <guid>https://spokorsk.github.io/blog.github.io/tags/test/</guid>
       <description></description>
     </item>
     

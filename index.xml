@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mon blog pour noter tout</title>
-    <link>http://monblog.monproprecloud.com/</link>
+    <link>https://spokorsk.github.io/blog.github.io/</link>
     <description>Contenu récent sur Mon blog pour noter tout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
@@ -11,15 +11,15 @@
     <copyright>Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
     <lastBuildDate>Mon, 23 Apr 2018 19:39:52 +0200</lastBuildDate>
     
-        <atom:link href="http://monblog.monproprecloud.com/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://spokorsk.github.io/blog.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mon Article7</title>
-      <link>http://monblog.monproprecloud.com/articles/mon-article7/</link>
+      <link>https://spokorsk.github.io/blog.github.io/articles/mon-article7/</link>
       <pubDate>Mon, 23 Apr 2018 19:39:52 +0200</pubDate>
        <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
-      <guid>http://monblog.monproprecloud.com/articles/mon-article7/</guid>
+      <guid>https://spokorsk.github.io/blog.github.io/articles/mon-article7/</guid>
       <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
 when an unknown printer took a galley of type and scrambled it to make a type
@@ -85,10 +85,10 @@ including versions of Lorem Ipsum.&lt;/p&gt;
     
     <item>
       <title>Mon Article</title>
-      <link>http://monblog.monproprecloud.com/articles/mon-article/</link>
+      <link>https://spokorsk.github.io/blog.github.io/articles/mon-article/</link>
       <pubDate>Sun, 22 Apr 2018 11:31:03 +0200</pubDate>
        <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
-      <guid>http://monblog.monproprecloud.com/articles/mon-article/</guid>
+      <guid>https://spokorsk.github.io/blog.github.io/articles/mon-article/</guid>
       <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
 when an unknown printer took a galley of type and scrambled it to make a type
@@ -155,10 +155,10 @@ including versions of Lorem Ipsum.&lt;/p&gt;
     
     <item>
       <title>Mon Article2</title>
-      <link>http://monblog.monproprecloud.com/articles/mon-article2/</link>
+      <link>https://spokorsk.github.io/blog.github.io/articles/mon-article2/</link>
       <pubDate>Sun, 22 Apr 2018 11:31:03 +0200</pubDate>
        <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
-      <guid>http://monblog.monproprecloud.com/articles/mon-article2/</guid>
+      <guid>https://spokorsk.github.io/blog.github.io/articles/mon-article2/</guid>
       <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
 when an unknown printer took a galley of type and scrambled it to make a type
@@ -225,10 +225,10 @@ including versions of Lorem Ipsum.&lt;/p&gt;
     
     <item>
       <title>Mon Article3</title>
-      <link>http://monblog.monproprecloud.com/articles/mon-article3/</link>
+      <link>https://spokorsk.github.io/blog.github.io/articles/mon-article3/</link>
       <pubDate>Sun, 22 Apr 2018 11:31:03 +0200</pubDate>
        <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
-      <guid>http://monblog.monproprecloud.com/articles/mon-article3/</guid>
+      <guid>https://spokorsk.github.io/blog.github.io/articles/mon-article3/</guid>
       <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
 when an unknown printer took a galley of type and scrambled it to make a type
@@ -295,10 +295,10 @@ including versions of Lorem Ipsum.&lt;/p&gt;
     
     <item>
       <title>Mon Article4</title>
-      <link>http://monblog.monproprecloud.com/articles/mon-article4/</link>
+      <link>https://spokorsk.github.io/blog.github.io/articles/mon-article4/</link>
       <pubDate>Sun, 22 Apr 2018 11:31:03 +0200</pubDate>
        <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
-      <guid>http://monblog.monproprecloud.com/articles/mon-article4/</guid>
+      <guid>https://spokorsk.github.io/blog.github.io/articles/mon-article4/</guid>
       <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
 when an unknown printer took a galley of type and scrambled it to make a type
@@ -364,10 +364,10 @@ including versions of Lorem Ipsum.&lt;/p&gt;
     
     <item>
       <title>Mon Article4</title>
-      <link>http://monblog.monproprecloud.com/articles/mon-article5/</link>
+      <link>https://spokorsk.github.io/blog.github.io/articles/mon-article5/</link>
       <pubDate>Sun, 22 Apr 2018 11:31:03 +0200</pubDate>
        <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
-      <guid>http://monblog.monproprecloud.com/articles/mon-article5/</guid>
+      <guid>https://spokorsk.github.io/blog.github.io/articles/mon-article5/</guid>
       <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
 when an unknown printer took a galley of type and scrambled it to make a type
@@ -433,10 +433,10 @@ including versions of Lorem Ipsum.&lt;/p&gt;
     
     <item>
       <title>Mon Article4</title>
-      <link>http://monblog.monproprecloud.com/articles/mon-article6/</link>
+      <link>https://spokorsk.github.io/blog.github.io/articles/mon-article6/</link>
       <pubDate>Sun, 22 Apr 2018 11:31:03 +0200</pubDate>
        <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
-      <guid>http://monblog.monproprecloud.com/articles/mon-article6/</guid>
+      <guid>https://spokorsk.github.io/blog.github.io/articles/mon-article6/</guid>
       <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
 when an unknown printer took a galley of type and scrambled it to make a type
@@ -502,10 +502,10 @@ including versions of Lorem Ipsum.&lt;/p&gt;
     
     <item>
       <title>Awesome Collaborative Project</title>
-      <link>http://monblog.monproprecloud.com/projets/collaborativeproject/</link>
+      <link>https://spokorsk.github.io/blog.github.io/projets/collaborativeproject/</link>
       <pubDate>Mon, 05 Oct 2015 02:27:08 +0000</pubDate>
        <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
-      <guid>http://monblog.monproprecloud.com/projets/collaborativeproject/</guid>
+      <guid>https://spokorsk.github.io/blog.github.io/projets/collaborativeproject/</guid>
       <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.
 &lt;img src=&#34;https://fscomps.fotosearch.com/bigcomps/CSP/CSP053/k0538979.jpg&#34; alt=&#34;my img&#34; /&gt;&lt;/p&gt;
 
@@ -515,10 +515,10 @@ including versions of Lorem Ipsum.&lt;/p&gt;
     
     <item>
       <title>Useful Code Snippet</title>
-      <link>http://monblog.monproprecloud.com/projets/snippet/</link>
+      <link>https://spokorsk.github.io/blog.github.io/projets/snippet/</link>
       <pubDate>Mon, 05 Oct 2015 02:24:15 +0000</pubDate>
        <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
-      <guid>http://monblog.monproprecloud.com/projets/snippet/</guid>
+      <guid>https://spokorsk.github.io/blog.github.io/projets/snippet/</guid>
       <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://fscomps.fotosearch.com/bigcomps/CSP/CSP992/k12950857.jpg&#34; alt=&#34;my img&#34; /&gt;&lt;/p&gt;
@@ -529,10 +529,10 @@ including versions of Lorem Ipsum.&lt;/p&gt;
     
     <item>
       <title>A Cool Piece of Code</title>
-      <link>http://monblog.monproprecloud.com/projets/coolcode/</link>
+      <link>https://spokorsk.github.io/blog.github.io/projets/coolcode/</link>
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
        <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
-      <guid>http://monblog.monproprecloud.com/projets/coolcode/</guid>
+      <guid>https://spokorsk.github.io/blog.github.io/projets/coolcode/</guid>
       <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://fscomps.fotosearch.com/bigcomps/CSP/CSP015/k0156170.jpg&#34; alt=&#34;my img&#34; /&gt;&lt;/p&gt;
@@ -547,10 +547,10 @@ including versions of Lorem Ipsum.&lt;/p&gt;
     
     <item>
       <title>A Cool Website</title>
-      <link>http://monblog.monproprecloud.com/projets/coolwebsite/</link>
+      <link>https://spokorsk.github.io/blog.github.io/projets/coolwebsite/</link>
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
        <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
-      <guid>http://monblog.monproprecloud.com/projets/coolwebsite/</guid>
+      <guid>https://spokorsk.github.io/blog.github.io/projets/coolwebsite/</guid>
       <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
 
 &lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
@@ -563,10 +563,10 @@ including versions of Lorem Ipsum.&lt;/p&gt;
     
     <item>
       <title>Another Cool Website</title>
-      <link>http://monblog.monproprecloud.com/projets/myproject/</link>
+      <link>https://spokorsk.github.io/blog.github.io/projets/myproject/</link>
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
        <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
-      <guid>http://monblog.monproprecloud.com/projets/myproject/</guid>
+      <guid>https://spokorsk.github.io/blog.github.io/projets/myproject/</guid>
       <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
 
 &lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
@@ -579,10 +579,10 @@ including versions of Lorem Ipsum.&lt;/p&gt;
     
     <item>
       <title>Material Design Lite theme for Hugo</title>
-      <link>http://monblog.monproprecloud.com/projets/hugotheme/</link>
+      <link>https://spokorsk.github.io/blog.github.io/projets/hugotheme/</link>
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
        <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
-      <guid>http://monblog.monproprecloud.com/projets/hugotheme/</guid>
+      <guid>https://spokorsk.github.io/blog.github.io/projets/hugotheme/</guid>
       <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
 
 &lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
@@ -595,10 +595,10 @@ including versions of Lorem Ipsum.&lt;/p&gt;
     
     <item>
       <title>A propos de moi</title>
-      <link>http://monblog.monproprecloud.com/apropos/</link>
+      <link>https://spokorsk.github.io/blog.github.io/apropos/</link>
       <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
        <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
-      <guid>http://monblog.monproprecloud.com/apropos/</guid>
+      <guid>https://spokorsk.github.io/blog.github.io/apropos/</guid>
       <description>
 
 &lt;blockquote&gt;
@@ -633,10 +633,10 @@ cleanse, mumblecore keytar mustache blog direct trade PBR&amp;amp;B quinoa.&lt;/
     
     <item>
       <title>Zut… Page non trouvée.</title>
-      <link>http://monblog.monproprecloud.com/404/</link>
+      <link>https://spokorsk.github.io/blog.github.io/404/</link>
       <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
        <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
-      <guid>http://monblog.monproprecloud.com/404/</guid>
+      <guid>https://spokorsk.github.io/blog.github.io/404/</guid>
       <description>&lt;p&gt;Vous devriez aller voir ailleurs.&lt;/p&gt;
 </description>
     </item>
