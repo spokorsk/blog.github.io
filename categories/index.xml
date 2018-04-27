@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Mon blog pour noter tout</title>
+    <title>Categories on Erlich Bachman</title>
     <link>https://spokorsk.github.io/blog.github.io/categories/</link>
-    <description>Recent content in Categories on Mon blog pour noter tout</description>
+    <description>Recent content in Categories on Erlich Bachman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <managingEditor>spokorski@protonmail.fr (Sébastien Pokorski)</managingEditor>
-    <webMaster>spokorski@protonmail.fr (Sébastien Pokorski)</webMaster>
-    <copyright>Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 18 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
 	<atom:link href="https://spokorsk.github.io/blog.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,54 +14,36 @@
     <item>
       <title>About</title>
       <link>https://spokorsk.github.io/blog.github.io/categories/about/</link>
-      <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
-      <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
       <guid>https://spokorsk.github.io/blog.github.io/categories/about/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bio</title>
-      <link>https://spokorsk.github.io/blog.github.io/categories/bio/</link>
-      <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
-      <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
-      <guid>https://spokorsk.github.io/blog.github.io/categories/bio/</guid>
+      <title>Ad</title>
+      <link>https://spokorsk.github.io/blog.github.io/categories/ad/</link>
+      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      
+      <guid>https://spokorsk.github.io/blog.github.io/categories/ad/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Meta</title>
-      <link>https://spokorsk.github.io/blog.github.io/categories/meta/</link>
-      <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
-      <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
-      <guid>https://spokorsk.github.io/blog.github.io/categories/meta/</guid>
+      <title>Articles</title>
+      <link>https://spokorsk.github.io/blog.github.io/categories/articles/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://spokorsk.github.io/blog.github.io/categories/articles/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Post</title>
-      <link>https://spokorsk.github.io/blog.github.io/categories/post/</link>
-      <pubDate>Mon, 23 Apr 2018 19:39:52 +0200</pubDate>
-      <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
-      <guid>https://spokorsk.github.io/blog.github.io/categories/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project</title>
-      <link>https://spokorsk.github.io/blog.github.io/categories/project/</link>
-      <pubDate>Mon, 05 Oct 2015 02:24:15 +0000</pubDate>
-      <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
-      <guid>https://spokorsk.github.io/blog.github.io/categories/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projets</title>
-      <link>https://spokorsk.github.io/blog.github.io/categories/projets/</link>
-      <pubDate>Mon, 05 Oct 2015 02:27:08 +0000</pubDate>
-      <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
-      <guid>https://spokorsk.github.io/blog.github.io/categories/projets/</guid>
+      <title>Propaganda</title>
+      <link>https://spokorsk.github.io/blog.github.io/categories/propaganda/</link>
+      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
+      
+      <guid>https://spokorsk.github.io/blog.github.io/categories/propaganda/</guid>
       <description></description>
     </item>
     
