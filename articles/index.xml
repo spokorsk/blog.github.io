@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Mon blog pour noter tout</title>
+    <link>http://monblog.monproprecloud.com/articles/</link>
+    <description>Recent content in Articles on Mon blog pour noter tout</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <managingEditor>spokorski@protonmail.fr (Sébastien Pokorski)</managingEditor>
+    <webMaster>spokorski@protonmail.fr (Sébastien Pokorski)</webMaster>
+    <copyright>Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 23 Apr 2018 19:39:52 +0200</lastBuildDate>
+    
+	<atom:link href="http://monblog.monproprecloud.com/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mon Article7</title>
+      <link>http://monblog.monproprecloud.com/articles/mon-article7/</link>
+      <pubDate>Mon, 23 Apr 2018 19:39:52 +0200</pubDate>
+      <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>http://monblog.monproprecloud.com/articles/mon-article7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mon Article</title>
+      <link>http://monblog.monproprecloud.com/articles/mon-article/</link>
+      <pubDate>Sun, 22 Apr 2018 11:31:03 +0200</pubDate>
+      <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>http://monblog.monproprecloud.com/articles/mon-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mon Article2</title>
+      <link>http://monblog.monproprecloud.com/articles/mon-article2/</link>
+      <pubDate>Sun, 22 Apr 2018 11:31:03 +0200</pubDate>
+      <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>http://monblog.monproprecloud.com/articles/mon-article2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mon Article3</title>
+      <link>http://monblog.monproprecloud.com/articles/mon-article3/</link>
+      <pubDate>Sun, 22 Apr 2018 11:31:03 +0200</pubDate>
+      <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>http://monblog.monproprecloud.com/articles/mon-article3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mon Article4</title>
+      <link>http://monblog.monproprecloud.com/articles/mon-article4/</link>
+      <pubDate>Sun, 22 Apr 2018 11:31:03 +0200</pubDate>
+      <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>http://monblog.monproprecloud.com/articles/mon-article4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mon Article4</title>
+      <link>http://monblog.monproprecloud.com/articles/mon-article5/</link>
+      <pubDate>Sun, 22 Apr 2018 11:31:03 +0200</pubDate>
+      <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>http://monblog.monproprecloud.com/articles/mon-article5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mon Article4</title>
+      <link>http://monblog.monproprecloud.com/articles/mon-article6/</link>
+      <pubDate>Sun, 22 Apr 2018 11:31:03 +0200</pubDate>
+      <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>http://monblog.monproprecloud.com/articles/mon-article6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
