@@ -1,64 +1,644 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Erlich Bachman</title>
+    <title>Mon blog pour noter tout</title>
     <link>https://spokorsk.github.io/blog.github.io/</link>
-    <description>Recent content on Erlich Bachman</description>
+    <description>Contenu récent sur Mon blog pour noter tout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 03 Oct 2016 16:59:13 -0400</lastBuildDate>
+    <managingEditor>spokorski@protonmail.fr (Sébastien Pokorski)</managingEditor>
+    <webMaster>spokorski@protonmail.fr (Sébastien Pokorski)</webMaster>
+    <copyright>© 2018. Sébastien Pokorski. [Tout droits Réservés] (http://creativecommons.org/licenses/by/4.0/).</copyright>
+    <lastBuildDate>Mon, 23 Apr 2018 19:39:52 +0200</lastBuildDate>
     
-	<atom:link href="https://spokorsk.github.io/blog.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://spokorsk.github.io/blog.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hooli’s Hot New Hardware</title>
-      <link>https://spokorsk.github.io/blog.github.io/blog/third/</link>
-      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
-      
-      <guid>https://spokorsk.github.io/blog.github.io/blog/third/</guid>
-      <description>Note: This article originally appeared in CodeRag.
-When Hooli acquired Endframe, no one could wait to see what the tech giant would do with the revolutionary, middle-out compression technology. The wait is over: In a savvy pivot, Hooli took the software and created their newest hardware: the Hooli/Endframe Box. While initially conceived as a consumer-facing platform, the Endframe technology has been repurposed to “make the world a better place through secure, high-capacity enterprise data storage servers utilizing middle-out compression technology.</description>
+      <title>Mon Article7</title>
+      <link>https://spokorsk.github.io/blog.github.io/articles/mon-article7/</link>
+      <pubDate>Mon, 23 Apr 2018 19:39:52 +0200</pubDate>
+       <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/articles/mon-article7/</guid>
+      <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
+when an unknown printer took a galley of type and scrambled it to make a type
+specimen book.  It has survived not only five centuries, but also the leap into
+electronic typesetting, remaining &lt;strong&gt;également important&lt;/strong&gt; essentially unchanged. It was popularised in
+the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+and more recently with desktop publishing software like Aldus PageMaker
+including versions of Lorem Ipsum.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Titre 1&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Titre 2&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Titre 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Colonne&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Colonne&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Colonne&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Alignée à&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Alignée au&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Alignée à&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Gauche&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Centre&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Droite&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;titre-de-niveau-2&#34;&gt;Titre de niveau 2&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;mon premier&lt;/li&gt;
+&lt;li&gt;mon deuxième&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Mon texte &lt;code&gt;code&lt;/code&gt; fin de mon texte&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pommes&lt;/li&gt;
+&lt;li&gt;Poires&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;titre-de-niveau-1&#34;&gt;Titre de niveau 1&lt;/h1&gt;
+
+&lt;p&gt;test2
+&lt;a href=&#34;https://www.monproprecloud.fr&#34; title=&#34;mon site&#34;&gt;mon site&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h2 id=&#34;test-pour-voir&#34;&gt;&amp;ldquo;test pour voir&amp;rdquo;&lt;/h2&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://spokorsk.github.io/blog.github.io/about/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>https://spokorsk.github.io/blog.github.io/about/</guid>
-      <description>Erlich administers the Hacker Hostel, a tech incubator where Richard, Big Head, Dinesh, and Gilfoyle live and work in exchange for 10 percent of their potential businesses. Erlich clings to his glory days, when he sold aviation start-up Aviato, a move that, at least in his mind, qualifies him to be a svengali lording over other tech nerds. He still drives a car emblazoned with multiple Aviato logos and smokes copious amounts of weed.</description>
+      <title>Mon Article</title>
+      <link>https://spokorsk.github.io/blog.github.io/articles/mon-article/</link>
+      <pubDate>Sun, 22 Apr 2018 11:31:03 +0200</pubDate>
+       <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/articles/mon-article/</guid>
+      <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
+when an unknown printer took a galley of type and scrambled it to make a type
+specimen book.  It has survived not only five centuries, but also the leap into
+electronic typesetting, remaining &lt;strong&gt;également important&lt;/strong&gt; essentially unchanged. It was popularised in
+the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+and more recently with desktop publishing software like Aldus PageMaker
+including versions of Lorem Ipsum.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Titre 1&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Titre 2&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Titre 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Colonne&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Colonne&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Colonne&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Alignée à&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Alignée au&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Alignée à&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Gauche&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Centre&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Droite&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;titre-de-niveau-2&#34;&gt;Titre de niveau 2&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;mon premier&lt;/li&gt;
+&lt;li&gt;mon deuxième&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Mon texte &lt;code&gt;code&lt;/code&gt; fin de mon texte&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pommes&lt;/li&gt;
+&lt;li&gt;Poires&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;titre-de-niveau-1&#34;&gt;Titre de niveau 1&lt;/h1&gt;
+
+&lt;p&gt;test2
+&lt;a href=&#34;https://www.monproprecloud.fr&#34; title=&#34;mon site&#34;&gt;mon site&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Ce texte apparaîtra dans un élément HTML &lt;blockquote&gt;
+&amp;ldquo;test pour voir&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
-      <title>CodeRag</title>
-      <link>https://spokorsk.github.io/blog.github.io/coderag/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>https://spokorsk.github.io/blog.github.io/coderag/</guid>
-      <description>Notes: This article originally appeared in CodeRag.
-Code/Rag has always been more than just another online tech blog. We strive to be part of the tech community—serving an essential, fundamental look at what’s going on in the valley. It’s why our tagline is “Know Your Code.” We think a tech news publication should know the basics. Be the source. Get down to brass tacks. We can do that because we’re part of the very ecosystem we’re reporting on.</description>
+      <title>Mon Article2</title>
+      <link>https://spokorsk.github.io/blog.github.io/articles/mon-article2/</link>
+      <pubDate>Sun, 22 Apr 2018 11:31:03 +0200</pubDate>
+       <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/articles/mon-article2/</guid>
+      <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
+when an unknown printer took a galley of type and scrambled it to make a type
+specimen book.  It has survived not only five centuries, but also the leap into
+electronic typesetting, remaining &lt;strong&gt;également important&lt;/strong&gt; essentially unchanged. It was popularised in
+the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+and more recently with desktop publishing software like Aldus PageMaker
+including versions of Lorem Ipsum.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Titre 1&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Titre 2&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Titre 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Colonne&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Colonne&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Colonne&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Alignée à&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Alignée au&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Alignée à&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Gauche&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Centre&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Droite&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;titre-de-niveau-2&#34;&gt;Titre de niveau 2&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;mon premier&lt;/li&gt;
+&lt;li&gt;mon deuxième&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Mon texte &lt;code&gt;code&lt;/code&gt; fin de mon texte&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pommes&lt;/li&gt;
+&lt;li&gt;Poires&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;titre-de-niveau-1&#34;&gt;Titre de niveau 1&lt;/h1&gt;
+
+&lt;p&gt;test2
+&lt;a href=&#34;https://www.monproprecloud.fr&#34; title=&#34;mon site&#34;&gt;mon site&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Ce texte apparaîtra dans un élément HTML &lt;blockquote&gt;
+&amp;ldquo;test pour voir&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
-      <title>Gavin Belson</title>
-      <link>https://spokorsk.github.io/blog.github.io/blog/first/</link>
-      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
-      
-      <guid>https://spokorsk.github.io/blog.github.io/blog/first/</guid>
-      <description>Note: This article originally appeared in CodeRag.
-Gavin Belson’s name has long been synonymous with innovation—but beyond his work at Hooli, do we even know the man behind the rampant success? In a Code/Rag exclusive, Belson revealed to us 10 things about himself that aren’t common knowledge.
- He’s a nature fanatic! “It’s important to me that Hooli has an effective recycling program, and a personal passion of mine is donating to elephant sanctuaries.</description>
+      <title>Mon Article3</title>
+      <link>https://spokorsk.github.io/blog.github.io/articles/mon-article3/</link>
+      <pubDate>Sun, 22 Apr 2018 11:31:03 +0200</pubDate>
+       <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/articles/mon-article3/</guid>
+      <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
+when an unknown printer took a galley of type and scrambled it to make a type
+specimen book.  It has survived not only five centuries, but also the leap into
+electronic typesetting, remaining &lt;strong&gt;également important&lt;/strong&gt; essentially unchanged. It was popularised in
+the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+and more recently with desktop publishing software like Aldus PageMaker
+including versions of Lorem Ipsum.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Titre 1&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Titre 2&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Titre 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Colonne&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Colonne&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Colonne&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Alignée à&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Alignée au&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Alignée à&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Gauche&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Centre&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Droite&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;titre-de-niveau-2&#34;&gt;Titre de niveau 2&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;mon premier&lt;/li&gt;
+&lt;li&gt;mon deuxième&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Mon texte &lt;code&gt;code&lt;/code&gt; fin de mon texte&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pommes&lt;/li&gt;
+&lt;li&gt;Poires&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;titre-de-niveau-1&#34;&gt;Titre de niveau 1&lt;/h1&gt;
+
+&lt;p&gt;test2
+&lt;a href=&#34;https://www.monproprecloud.fr&#34; title=&#34;mon site&#34;&gt;mon site&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Ce texte apparaîtra dans un élément HTML &lt;blockquote&gt;
+&amp;ldquo;test pour voir&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
-      <title>Belson Back on Top</title>
-      <link>https://spokorsk.github.io/blog.github.io/blog/second/</link>
-      <pubDate>Sat, 01 Oct 2016 16:59:13 -0400</pubDate>
-      
-      <guid>https://spokorsk.github.io/blog.github.io/blog/second/</guid>
-      <description>Note: This post originally appeared in CodeRag
-Gavin Belson’s brilliant leadership is unstoppable. While allegedly taking a personal hiatus from day-to-day operations at Hooli, Belson couldn’t resist brokering a blockbuster deal between Hooli and Maleant Data Systems, deploying Hooli’s innovative new Hooli/Endframe Box. The multi-year deal brings handsome margins for Hooli and can easily be a template to apply across the entire Fortune 1000. An inside source tells me that, no surprise, the board was no longer satisfied to let Belson fade into the background.</description>
+      <title>Mon Article4</title>
+      <link>https://spokorsk.github.io/blog.github.io/articles/mon-article4/</link>
+      <pubDate>Sun, 22 Apr 2018 11:31:03 +0200</pubDate>
+       <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/articles/mon-article4/</guid>
+      <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
+when an unknown printer took a galley of type and scrambled it to make a type
+specimen book.  It has survived not only five centuries, but also the leap into
+electronic typesetting, remaining &lt;strong&gt;également important&lt;/strong&gt; essentially unchanged. It was popularised in
+the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+and more recently with desktop publishing software like Aldus PageMaker
+including versions of Lorem Ipsum.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Titre 1&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Titre 2&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Titre 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Colonne&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Colonne&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Colonne&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Alignée à&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Alignée au&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Alignée à&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Gauche&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Centre&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Droite&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;titre-de-niveau-2&#34;&gt;Titre de niveau 2&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;mon premier&lt;/li&gt;
+&lt;li&gt;mon deuxième&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Mon texte &lt;code&gt;code&lt;/code&gt; fin de mon texte&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pommes&lt;/li&gt;
+&lt;li&gt;Poires&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;titre-de-niveau-1&#34;&gt;Titre de niveau 1&lt;/h1&gt;
+
+&lt;p&gt;test2
+&lt;a href=&#34;https://www.monproprecloud.fr&#34; title=&#34;mon site&#34;&gt;mon site&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;test pour voir&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mon Article4</title>
+      <link>https://spokorsk.github.io/blog.github.io/articles/mon-article5/</link>
+      <pubDate>Sun, 22 Apr 2018 11:31:03 +0200</pubDate>
+       <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/articles/mon-article5/</guid>
+      <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
+when an unknown printer took a galley of type and scrambled it to make a type
+specimen book.  It has survived not only five centuries, but also the leap into
+electronic typesetting, remaining &lt;strong&gt;également important&lt;/strong&gt; essentially unchanged. It was popularised in
+the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+and more recently with desktop publishing software like Aldus PageMaker
+including versions of Lorem Ipsum.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Titre 1&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Titre 2&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Titre 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Colonne&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Colonne&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Colonne&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Alignée à&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Alignée au&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Alignée à&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Gauche&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Centre&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Droite&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;titre-de-niveau-2&#34;&gt;Titre de niveau 2&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;mon premier&lt;/li&gt;
+&lt;li&gt;mon deuxième&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Mon texte &lt;code&gt;code&lt;/code&gt; fin de mon texte&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pommes&lt;/li&gt;
+&lt;li&gt;Poires&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;titre-de-niveau-1&#34;&gt;Titre de niveau 1&lt;/h1&gt;
+
+&lt;p&gt;test2
+&lt;a href=&#34;https://www.monproprecloud.fr&#34; title=&#34;mon site&#34;&gt;mon site&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;test pour voir&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mon Article4</title>
+      <link>https://spokorsk.github.io/blog.github.io/articles/mon-article6/</link>
+      <pubDate>Sun, 22 Apr 2018 11:31:03 +0200</pubDate>
+       <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/articles/mon-article6/</guid>
+      <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
+when an unknown printer took a galley of type and scrambled it to make a type
+specimen book.  It has survived not only five centuries, but also the leap into
+electronic typesetting, remaining &lt;strong&gt;également important&lt;/strong&gt; essentially unchanged. It was popularised in
+the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+and more recently with desktop publishing software like Aldus PageMaker
+including versions of Lorem Ipsum.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Titre 1&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Titre 2&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Titre 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Colonne&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Colonne&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Colonne&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Alignée à&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Alignée au&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Alignée à&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Gauche&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Centre&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Droite&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;titre-de-niveau-2&#34;&gt;Titre de niveau 2&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;mon premier&lt;/li&gt;
+&lt;li&gt;mon deuxième&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Mon texte &lt;code&gt;code&lt;/code&gt; fin de mon texte&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pommes&lt;/li&gt;
+&lt;li&gt;Poires&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;titre-de-niveau-1&#34;&gt;Titre de niveau 1&lt;/h1&gt;
+
+&lt;p&gt;test2
+&lt;a href=&#34;https://www.monproprecloud.fr&#34; title=&#34;mon site&#34;&gt;mon site&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;test pour voir&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Awesome Collaborative Project</title>
+      <link>https://spokorsk.github.io/blog.github.io/projets/collaborativeproject/</link>
+      <pubDate>Mon, 05 Oct 2015 02:27:08 +0000</pubDate>
+       <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/projets/collaborativeproject/</guid>
+      <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.
+&lt;img src=&#34;https://fscomps.fotosearch.com/bigcomps/CSP/CSP053/k0538979.jpg&#34; alt=&#34;my img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Useful Code Snippet</title>
+      <link>https://spokorsk.github.io/blog.github.io/projets/snippet/</link>
+      <pubDate>Mon, 05 Oct 2015 02:24:15 +0000</pubDate>
+       <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/projets/snippet/</guid>
+      <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://fscomps.fotosearch.com/bigcomps/CSP/CSP992/k12950857.jpg&#34; alt=&#34;my img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Cool Piece of Code</title>
+      <link>https://spokorsk.github.io/blog.github.io/projets/coolcode/</link>
+      <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
+       <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/projets/coolcode/</guid>
+      <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://fscomps.fotosearch.com/bigcomps/CSP/CSP015/k0156170.jpg&#34; alt=&#34;my img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
+
+&lt;p&gt;Echo Park fanny pack small batch, Austin kale chips four dollar toast tattooed crucifix flexitarian PBR. Gentrify taxidermy health goth wolf, kale chips four dollar toast messenger bag kogi flannel mustache. Four loko selfies cray, meditation Marfa mumblecore tote bag butcher photo booth. Roof party twee retro hoodie, pork belly put a bird on it Austin taxidermy. Meh quinoa Brooklyn sustainable sartorial. Church-key mustache Blue Bottle Shoreditch XOXO artisan. Mixtape hoodie +1, ethical letterpress chambray authentic skateboard.&lt;/p&gt;
+
+&lt;p&gt;Schlitz small batch four dollar toast, Etsy dreamcatcher roof party irony. Single-origin coffee slow-carb selvage occupy, art party vegan photo booth chambray. Organic whatever Pitchfork, food truck XOXO listicle shabby chic pug migas VHS American Apparel YOLO crucifix kale chips cardigan. Polaroid sustainable church-key, tattooed Blue Bottle ennui tote bag blog umami cray asymmetrical American Apparel pork belly ethical chambray. Meditation skateboard fashion axe Odd Future yr Kickstarter cardigan. Post-ironic Godard meh beard +1, leggings biodiesel cornhole drinking vinegar keytar plaid sartorial migas viral gentrify. Sriracha lumbersexual sustainable, sartorial occupy keytar brunch artisan hella tattooed gluten-free.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Cool Website</title>
+      <link>https://spokorsk.github.io/blog.github.io/projets/coolwebsite/</link>
+      <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
+       <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/projets/coolwebsite/</guid>
+      <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
+
+&lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
+
+&lt;p&gt;Echo Park fanny pack small batch, Austin kale chips four dollar toast tattooed crucifix flexitarian PBR. Gentrify taxidermy health goth wolf, kale chips four dollar toast messenger bag kogi flannel mustache. Four loko selfies cray, meditation Marfa mumblecore tote bag butcher photo booth. Roof party twee retro hoodie, pork belly put a bird on it Austin taxidermy. Meh quinoa Brooklyn sustainable sartorial. Church-key mustache Blue Bottle Shoreditch XOXO artisan. Mixtape hoodie +1, ethical letterpress chambray authentic skateboard.&lt;/p&gt;
+
+&lt;p&gt;Schlitz small batch four dollar toast, Etsy dreamcatcher roof party irony. Single-origin coffee slow-carb selvage occupy, art party vegan photo booth chambray. Organic whatever Pitchfork, food truck XOXO listicle shabby chic pug migas VHS American Apparel YOLO crucifix kale chips cardigan. Polaroid sustainable church-key, tattooed Blue Bottle ennui tote bag blog umami cray asymmetrical American Apparel pork belly ethical chambray. Meditation skateboard fashion axe Odd Future yr Kickstarter cardigan. Post-ironic Godard meh beard +1, leggings biodiesel cornhole drinking vinegar keytar plaid sartorial migas viral gentrify. Sriracha lumbersexual sustainable, sartorial occupy keytar brunch artisan hella tattooed gluten-free.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Another Cool Website</title>
+      <link>https://spokorsk.github.io/blog.github.io/projets/myproject/</link>
+      <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
+       <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/projets/myproject/</guid>
+      <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
+
+&lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
+
+&lt;p&gt;Echo Park fanny pack small batch, Austin kale chips four dollar toast tattooed crucifix flexitarian PBR. Gentrify taxidermy health goth wolf, kale chips four dollar toast messenger bag kogi flannel mustache. Four loko selfies cray, meditation Marfa mumblecore tote bag butcher photo booth. Roof party twee retro hoodie, pork belly put a bird on it Austin taxidermy. Meh quinoa Brooklyn sustainable sartorial. Church-key mustache Blue Bottle Shoreditch XOXO artisan. Mixtape hoodie +1, ethical letterpress chambray authentic skateboard.&lt;/p&gt;
+
+&lt;p&gt;Schlitz small batch four dollar toast, Etsy dreamcatcher roof party irony. Single-origin coffee slow-carb selvage occupy, art party vegan photo booth chambray. Organic whatever Pitchfork, food truck XOXO listicle shabby chic pug migas VHS American Apparel YOLO crucifix kale chips cardigan. Polaroid sustainable church-key, tattooed Blue Bottle ennui tote bag blog umami cray asymmetrical American Apparel pork belly ethical chambray. Meditation skateboard fashion axe Odd Future yr Kickstarter cardigan. Post-ironic Godard meh beard +1, leggings biodiesel cornhole drinking vinegar keytar plaid sartorial migas viral gentrify. Sriracha lumbersexual sustainable, sartorial occupy keytar brunch artisan hella tattooed gluten-free.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Material Design Lite theme for Hugo</title>
+      <link>https://spokorsk.github.io/blog.github.io/projets/hugotheme/</link>
+      <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
+       <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/projets/hugotheme/</guid>
+      <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
+
+&lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
+
+&lt;p&gt;Echo Park fanny pack small batch, Austin kale chips four dollar toast tattooed crucifix flexitarian PBR. Gentrify taxidermy health goth wolf, kale chips four dollar toast messenger bag kogi flannel mustache. Four loko selfies cray, meditation Marfa mumblecore tote bag butcher photo booth. Roof party twee retro hoodie, pork belly put a bird on it Austin taxidermy. Meh quinoa Brooklyn sustainable sartorial. Church-key mustache Blue Bottle Shoreditch XOXO artisan. Mixtape hoodie +1, ethical letterpress chambray authentic skateboard.&lt;/p&gt;
+
+&lt;p&gt;Schlitz small batch four dollar toast, Etsy dreamcatcher roof party irony. Single-origin coffee slow-carb selvage occupy, art party vegan photo booth chambray. Organic whatever Pitchfork, food truck XOXO listicle shabby chic pug migas VHS American Apparel YOLO crucifix kale chips cardigan. Polaroid sustainable church-key, tattooed Blue Bottle ennui tote bag blog umami cray asymmetrical American Apparel pork belly ethical chambray. Meditation skateboard fashion axe Odd Future yr Kickstarter cardigan. Post-ironic Godard meh beard +1, leggings biodiesel cornhole drinking vinegar keytar plaid sartorial migas viral gentrify. Sriracha lumbersexual sustainable, sartorial occupy keytar brunch artisan hella tattooed gluten-free.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A propos de moi</title>
+      <link>https://spokorsk.github.io/blog.github.io/apropos/</link>
+      <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
+       <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/apropos/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;90&amp;rsquo;s slow-carb Schlitz Shoreditch mixtape typewriter, wayfarers Austin keffiyeh
+Helvetica artisan flexitarian. Health goth vinyl scenester pickled kitsch.
+Organic slow-carb stumptown freegan, PBR ugh chia Intelligentsia pork belly
+locavore retro kale chips. Tofu put a bird on it squid tattooed beard master
+cleanse, mumblecore keytar mustache blog direct trade PBR&amp;amp;B quinoa.&lt;/p&gt;
+
+&lt;h2 id=&#34;blockquote-eh-oui-j-arrive-tout-de-suite&#34;&gt;&lt;blockquote&gt; &amp;ldquo;Eh oui j&amp;rsquo;arrive tout de suite&amp;rdquo;&lt;/h2&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;2015 - Master of Arts in Wine Tasting, University of British Columbia&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2013 - Bachelor of Arts , University of British Columbia&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Painting with condiments (2015)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;société-où-j-ai-travaillé&#34;&gt;Société où j&amp;rsquo;ai travaillé&lt;/h4&gt;
+
+&lt;p&gt;I don&amp;rsquo;t work :(&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zut… Page non trouvée.</title>
+      <link>https://spokorsk.github.io/blog.github.io/404/</link>
+      <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
+       <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/404/</guid>
+      <description>&lt;p&gt;Vous devriez aller voir ailleurs.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

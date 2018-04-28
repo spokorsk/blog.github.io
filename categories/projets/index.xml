@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projets on Mon blog pour noter tout</title>
+    <link>https://spokorsk.github.io/blog.github.io/categories/projets/</link>
+    <description>Recent content in Projets on Mon blog pour noter tout</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <managingEditor>spokorski@protonmail.fr (Sébastien Pokorski)</managingEditor>
+    <webMaster>spokorski@protonmail.fr (Sébastien Pokorski)</webMaster>
+    <copyright>© 2018. Sébastien Pokorski. [Tout droits Réservés] (http://creativecommons.org/licenses/by/4.0/).</copyright>
+    <lastBuildDate>Mon, 05 Oct 2015 02:27:08 +0000</lastBuildDate>
+    
+	<atom:link href="https://spokorsk.github.io/blog.github.io/categories/projets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Awesome Collaborative Project</title>
+      <link>https://spokorsk.github.io/blog.github.io/projets/collaborativeproject/</link>
+      <pubDate>Mon, 05 Oct 2015 02:27:08 +0000</pubDate>
+      <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/projets/collaborativeproject/</guid>
+      <description>Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz.</description>
+    </item>
+    
+  </channel>
+</rss>

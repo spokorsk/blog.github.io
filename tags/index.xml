@@ -1,94 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Erlich Bachman</title>
+    <title>Tags on Mon blog pour noter tout</title>
     <link>https://spokorsk.github.io/blog.github.io/tags/</link>
-    <description>Recent content in Tags on Erlich Bachman</description>
+    <description>Recent content in Tags on Mon blog pour noter tout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <managingEditor>spokorski@protonmail.fr (Sébastien Pokorski)</managingEditor>
+    <webMaster>spokorski@protonmail.fr (Sébastien Pokorski)</webMaster>
+    <copyright>© 2018. Sébastien Pokorski. [Tout droits Réservés] (http://creativecommons.org/licenses/by/4.0/).</copyright>
+    <lastBuildDate>Tue, 18 Aug 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://spokorsk.github.io/blog.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
-      <link>https://spokorsk.github.io/blog.github.io/tags/about/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>https://spokorsk.github.io/blog.github.io/tags/about/</guid>
+      <title>Bio</title>
+      <link>https://spokorsk.github.io/blog.github.io/tags/bio/</link>
+      <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
+      <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/tags/bio/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Aviato</title>
-      <link>https://spokorsk.github.io/blog.github.io/tags/aviato/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>https://spokorsk.github.io/blog.github.io/tags/aviato/</guid>
+      <title>Meta</title>
+      <link>https://spokorsk.github.io/blog.github.io/tags/meta/</link>
+      <pubDate>Mon, 23 Apr 2018 19:39:52 +0200</pubDate>
+      <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/tags/meta/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bachman</title>
-      <link>https://spokorsk.github.io/blog.github.io/tags/bachman/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>https://spokorsk.github.io/blog.github.io/tags/bachman/</guid>
+      <title>Project</title>
+      <link>https://spokorsk.github.io/blog.github.io/tags/project/</link>
+      <pubDate>Mon, 05 Oct 2015 02:27:08 +0000</pubDate>
+      <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/tags/project/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Belson</title>
-      <link>https://spokorsk.github.io/blog.github.io/tags/belson/</link>
-      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
-      
-      <guid>https://spokorsk.github.io/blog.github.io/tags/belson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ceo</title>
-      <link>https://spokorsk.github.io/blog.github.io/tags/ceo/</link>
-      <pubDate>Sat, 01 Oct 2016 16:59:13 -0400</pubDate>
-      
-      <guid>https://spokorsk.github.io/blog.github.io/tags/ceo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gavin</title>
-      <link>https://spokorsk.github.io/blog.github.io/tags/gavin/</link>
-      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
-      
-      <guid>https://spokorsk.github.io/blog.github.io/tags/gavin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hardware</title>
-      <link>https://spokorsk.github.io/blog.github.io/tags/hardware/</link>
-      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
-      
-      <guid>https://spokorsk.github.io/blog.github.io/tags/hardware/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hooli</title>
-      <link>https://spokorsk.github.io/blog.github.io/tags/hooli/</link>
-      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
-      
-      <guid>https://spokorsk.github.io/blog.github.io/tags/hooli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pied Piper</title>
-      <link>https://spokorsk.github.io/blog.github.io/tags/pied-piper/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>https://spokorsk.github.io/blog.github.io/tags/pied-piper/</guid>
+      <title>Test</title>
+      <link>https://spokorsk.github.io/blog.github.io/tags/test/</link>
+      <pubDate>Mon, 23 Apr 2018 19:39:52 +0200</pubDate>
+      <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/tags/test/</guid>
       <description></description>
     </item>
     
