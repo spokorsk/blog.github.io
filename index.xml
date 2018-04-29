@@ -9,10 +9,89 @@
     <managingEditor>spokorski@protonmail.fr (Sébastien Pokorski)</managingEditor>
     <webMaster>spokorski@protonmail.fr (Sébastien Pokorski)</webMaster>
     <copyright>© 2018. Sébastien Pokorski. [Tout droits Réservés] (http://creativecommons.org/licenses/by/4.0/).</copyright>
-    <lastBuildDate>Mon, 23 Apr 2018 19:39:52 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://spokorsk.github.io/blog.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First</title>
+      <link>https://spokorsk.github.io/blog.github.io/articles/mon-article8/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+       <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/articles/mon-article8/</guid>
+      <description>&lt;p&gt;tst&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mon Article7</title>
+      <link>https://spokorsk.github.io/blog.github.io/articles/mon-article7copier/</link>
+      <pubDate>Mon, 23 Apr 2018 19:39:52 +0200</pubDate>
+       <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/articles/mon-article7copier/</guid>
+      <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
+when an unknown printer took a galley of type and scrambled it to make a type
+specimen book.  It has survived not only five centuries, but also the leap into
+electronic typesetting, remaining &lt;strong&gt;également important&lt;/strong&gt; essentially unchanged. It was popularised in
+the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+and more recently with desktop publishing software like Aldus PageMaker
+including versions of Lorem Ipsum.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Titre 1&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Titre 2&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Titre 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Colonne&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Colonne&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Colonne&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Alignée à&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Alignée au&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Alignée à&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Gauche&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Centre&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Droite&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;titre-de-niveau-2&#34;&gt;Titre de niveau 2&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;mon premier&lt;/li&gt;
+&lt;li&gt;mon deuxième&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Mon texte &lt;code&gt;code&lt;/code&gt; fin de mon texte&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pommes&lt;/li&gt;
+&lt;li&gt;Poires&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;titre-de-niveau-1&#34;&gt;Titre de niveau 1&lt;/h1&gt;
+
+&lt;p&gt;test2
+&lt;a href=&#34;https://www.monproprecloud.fr&#34; title=&#34;mon site&#34;&gt;mon site&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h2 id=&#34;test-pour-voir&#34;&gt;&amp;ldquo;test pour voir&amp;rdquo;&lt;/h2&gt;
+&lt;/blockquote&gt;</description>
+    </item>
     
     <item>
       <title>Mon Article7</title>
@@ -368,6 +447,75 @@ including versions of Lorem Ipsum.&lt;/p&gt;
       <pubDate>Sun, 22 Apr 2018 11:31:03 +0200</pubDate>
        <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
       <guid>https://spokorsk.github.io/blog.github.io/articles/mon-article5/</guid>
+      <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
+when an unknown printer took a galley of type and scrambled it to make a type
+specimen book.  It has survived not only five centuries, but also the leap into
+electronic typesetting, remaining &lt;strong&gt;également important&lt;/strong&gt; essentially unchanged. It was popularised in
+the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+and more recently with desktop publishing software like Aldus PageMaker
+including versions of Lorem Ipsum.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Titre 1&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Titre 2&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Titre 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Colonne&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Colonne&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Colonne&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Alignée à&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Alignée au&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Alignée à&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Gauche&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Centre&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Droite&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;titre-de-niveau-2&#34;&gt;Titre de niveau 2&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;mon premier&lt;/li&gt;
+&lt;li&gt;mon deuxième&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Mon texte &lt;code&gt;code&lt;/code&gt; fin de mon texte&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pommes&lt;/li&gt;
+&lt;li&gt;Poires&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;titre-de-niveau-1&#34;&gt;Titre de niveau 1&lt;/h1&gt;
+
+&lt;p&gt;test2
+&lt;a href=&#34;https://www.monproprecloud.fr&#34; title=&#34;mon site&#34;&gt;mon site&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;test pour voir&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mon Article4</title>
+      <link>https://spokorsk.github.io/blog.github.io/articles/mon-article6copier/</link>
+      <pubDate>Sun, 22 Apr 2018 11:31:03 +0200</pubDate>
+       <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/articles/mon-article6copier/</guid>
       <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
 when an unknown printer took a galley of type and scrambled it to make a type

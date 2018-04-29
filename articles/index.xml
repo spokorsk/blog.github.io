@@ -9,10 +9,28 @@
     <managingEditor>spokorski@protonmail.fr (Sébastien Pokorski)</managingEditor>
     <webMaster>spokorski@protonmail.fr (Sébastien Pokorski)</webMaster>
     <copyright>© 2018. Sébastien Pokorski. [Tout droits Réservés] (http://creativecommons.org/licenses/by/4.0/).</copyright>
-    <lastBuildDate>Mon, 23 Apr 2018 19:39:52 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://spokorsk.github.io/blog.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First</title>
+      <link>https://spokorsk.github.io/blog.github.io/articles/mon-article8/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/articles/mon-article8/</guid>
+      <description>tst</description>
+    </item>
+    
+    <item>
+      <title>Mon Article7</title>
+      <link>https://spokorsk.github.io/blog.github.io/articles/mon-article7copier/</link>
+      <pubDate>Mon, 23 Apr 2018 19:39:52 +0200</pubDate>
+      <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/articles/mon-article7copier/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mon Article7</title>
@@ -65,6 +83,15 @@
       <pubDate>Sun, 22 Apr 2018 11:31:03 +0200</pubDate>
       <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
       <guid>https://spokorsk.github.io/blog.github.io/articles/mon-article5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mon Article4</title>
+      <link>https://spokorsk.github.io/blog.github.io/articles/mon-article6copier/</link>
+      <pubDate>Sun, 22 Apr 2018 11:31:03 +0200</pubDate>
+      <author>spokorski@protonmail.fr (Sébastien Pokorski)</author>
+      <guid>https://spokorsk.github.io/blog.github.io/articles/mon-article6copier/</guid>
       <description></description>
     </item>
     

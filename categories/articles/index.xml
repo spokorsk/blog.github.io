@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test on Mon blog pour noter tout</title>
-    <link>https://spokorsk.github.io/blog.github.io/tags/test/</link>
-    <description>Recent content in Test on Mon blog pour noter tout</description>
+    <title>Articles on Mon blog pour noter tout</title>
+    <link>https://spokorsk.github.io/blog.github.io/categories/articles/</link>
+    <description>Recent content in Articles on Mon blog pour noter tout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <managingEditor>spokorski@protonmail.fr (Sébastien Pokorski)</managingEditor>
@@ -11,7 +11,7 @@
     <copyright>© 2018. Sébastien Pokorski. [Tout droits Réservés] (http://creativecommons.org/licenses/by/4.0/).</copyright>
     <lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://spokorsk.github.io/blog.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://spokorsk.github.io/blog.github.io/categories/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
