@@ -3,17 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://spokorsk.github.io/blog.github.io/articles/mon-article8/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://spokorsk.github.io/blog.github.io/articles/mon-article7copier/</loc>
+    <loc>https://spokorsk.github.io/blog.github.io/articles/mon-article7/</loc>
     <lastmod>2018-04-23T19:39:52+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://spokorsk.github.io/blog.github.io/articles/mon-article7/</loc>
+    <loc>https://spokorsk.github.io/blog.github.io/articles/mon-article70/</loc>
     <lastmod>2018-04-23T19:39:52+02:00</lastmod>
   </url>
   
@@ -23,7 +18,17 @@
   </url>
   
   <url>
+    <loc>https://spokorsk.github.io/blog.github.io/articles/mon-article0/</loc>
+    <lastmod>2018-04-24T15:05:04+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://spokorsk.github.io/blog.github.io/articles/mon-article2/</loc>
+    <lastmod>2018-04-22T15:05:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spokorsk.github.io/blog.github.io/articles/mon-article20/</loc>
     <lastmod>2018-04-22T15:05:04+03:00</lastmod>
   </url>
   
@@ -33,7 +38,17 @@
   </url>
   
   <url>
+    <loc>https://spokorsk.github.io/blog.github.io/articles/mon-article30/</loc>
+    <lastmod>2018-04-22T15:05:04+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://spokorsk.github.io/blog.github.io/articles/mon-article4/</loc>
+    <lastmod>2018-04-22T15:05:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spokorsk.github.io/blog.github.io/articles/mon-article40/</loc>
     <lastmod>2018-04-22T15:05:04+03:00</lastmod>
   </url>
   
@@ -43,12 +58,17 @@
   </url>
   
   <url>
-    <loc>https://spokorsk.github.io/blog.github.io/articles/mon-article6copier/</loc>
+    <loc>https://spokorsk.github.io/blog.github.io/articles/mon-article50/</loc>
     <lastmod>2018-04-22T15:05:04+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://spokorsk.github.io/blog.github.io/articles/mon-article6/</loc>
+    <lastmod>2018-04-22T15:05:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spokorsk.github.io/blog.github.io/articles/mon-article60/</loc>
     <lastmod>2018-04-22T15:05:04+03:00</lastmod>
   </url>
   
@@ -93,20 +113,14 @@
   </url>
   
   <url>
-    <loc>https://spokorsk.github.io/blog.github.io/categories/apropos/</loc>
+    <loc>https://spokorsk.github.io/blog.github.io/categories/about/</loc>
     <lastmod>2015-08-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://spokorsk.github.io/blog.github.io/articles/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://spokorsk.github.io/blog.github.io/categories/articles/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-23T19:39:52+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -130,7 +144,7 @@
   
   <url>
     <loc>https://spokorsk.github.io/blog.github.io/tags/meta/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-23T19:39:52+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -142,18 +156,30 @@
   
   <url>
     <loc>https://spokorsk.github.io/blog.github.io/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-23T19:39:52+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://spokorsk.github.io/blog.github.io/projets/</loc>
+    <loc>https://spokorsk.github.io/blog.github.io/categories/post/</loc>
+    <lastmod>2018-04-23T19:39:52+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://spokorsk.github.io/blog.github.io/tags/project/</loc>
     <lastmod>2015-10-05T02:27:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://spokorsk.github.io/blog.github.io/tags/projets/</loc>
+    <loc>https://spokorsk.github.io/blog.github.io/categories/project/</loc>
+    <lastmod>2015-10-05T02:24:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://spokorsk.github.io/blog.github.io/projets/</loc>
     <lastmod>2015-10-05T02:27:08+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -172,7 +198,7 @@
   
   <url>
     <loc>https://spokorsk.github.io/blog.github.io/tags/test/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-23T19:39:52+02:00</lastmod>
     <priority>0</priority>
   </url>
   
